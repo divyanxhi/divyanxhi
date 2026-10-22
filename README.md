@@ -1,5 +1,34 @@
 # 💫 About Me:
-🔭 I’m currently pursuing B tech from SRMCEM lucknow <br>🌱 I’m currently learning java and mastered in python<br>
+Hi there, I'm Divyanshi! 👋
+
+🎓 I'm a 2nd-year B.Tech Computer Science student at SRMCEM, Lucknow.
+
+💻 I'm passionate about coding, web development, and building projects that solve real-world problems.
+
+🚀 About Me
+
+- 🌱 Currently learning Java and improving my problem-solving skills.
+- 🐍 Have experience with Python and an interest in exploring new technologies.
+- 🛠️ Interested in Web Development, Cybersecurity, and AI-powered solutions.
+- 🏆 Participated in many hackathons and also shortlisted in SIH 2026 inter college level.
+- 💡 I enjoy collaborating with teams, exploring innovative ideas, and turning them into working projects.
+- 🎯 My goal is to keep learning, build meaningful projects, and grow as a software developer.
+
+🧰 Tech Stack
+
+- Languages: Python, Java (Learning)
+- Web Development: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
+
+📌 Current Focus
+
+Learning new technologies, strengthening my coding fundamentals, and building projects that help me grow as a developer.
+
+🤝 Let's Connect!
+
+I'm always open to learning, collaborating on projects, and connecting with fellow developers.
+
+“Learning by building, growing by experimenting.” ✨
 
 
 ## 🌐 Socials:
